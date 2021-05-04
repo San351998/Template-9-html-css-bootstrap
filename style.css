@@ -1,0 +1,63 @@
+.Mintnavbar img{
+	width: 133px;
+	height:57px;
+	padding-top: 9px;
+
+}
+.Mintnav{
+	padding-top: 20px;
+	text-align: center;
+}
+.Mintnav li{
+	display: inline;
+}
+.Mintnav a{
+	padding-right: 20px;
+	color: black
+}
+.loginsignup{
+	padding-top: 16px;
+	text-align: center;
+}
+.loginsignup ul{
+	list-style: none;	
+}
+.loginsignup a{
+	padding-right: 13px;
+
+}
+.loginsignup button{
+	background-color: orange;
+	border-radius: 8px;
+}
+
+/*homeimage*/
+.homeimage{
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 800px;
+}
+.homeimage2{
+	background-image: url("background2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 800px;
+}
+
+
+
+
+
+
+/*Responsive*/
+@media (max-width:1078px) {
+   .Mintnavbar {
+ 
+    
+  }
+}
